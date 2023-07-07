@@ -1,0 +1,12 @@
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\bin\Debug\net6.0\HotelFinder.Entity.deps.json
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\bin\Debug\net6.0\HotelFinder.Entity.dll
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\bin\Debug\net6.0\HotelFinder.Entity.pdb
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\HotelFinder.Entity.csproj.AssemblyReference.cache
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\HotelFinder.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\HotelFinder.Entity.AssemblyInfoInputs.cache
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\HotelFinder.Entity.AssemblyInfo.cs
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\HotelFinder.Entity.csproj.CoreCompileInputs.cache
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\HotelFinder.Entity.dll
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\refint\HotelFinder.Entity.dll
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\HotelFinder.Entity.pdb
+C:\Users\dalki\Desktop\code\ASP.Net-CRUD\HotelFinder\HotelFinder.Entity\obj\Debug\net6.0\ref\HotelFinder.Entity.dll

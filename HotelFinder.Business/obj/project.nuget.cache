@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBgt5TD0vNwdy6pgSYf8Uzy9PajcxTlOzcz3NecgetTAmUjyeYbtr6v78LkFoyMkM1k2VTSDfYNZyMdWiCwQLQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dalki\\Desktop\\code\\ASP.Net-CRUD\\HotelFinder\\HotelFinder.Business\\HotelFinder.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalki\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
+    "C:\\Users\\dalki\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.8\\microsoft.entityframeworkcore.sqlserver.7.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore 7.0.8 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Package Microsoft.EntityFrameworkCore 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 7.0.8 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Package Microsoft.EntityFrameworkCore.SqlServer 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

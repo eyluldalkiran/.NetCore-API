@@ -1,0 +1,202 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.EntityFrameworkCore/7.0.8": {
+        "type": "package"
+      },
+      "Microsoft.EntityFrameworkCore.SqlServer/7.0.8": {
+        "type": "package"
+      },
+      "Microsoft.EntityFrameworkCore.Tools/7.0.8": {
+        "type": "package"
+      },
+      "HotelFinder.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HotelFinder.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelFinder.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.EntityFrameworkCore/7.0.8": {
+      "sha512": "J4eNwnGsaEeudWGvgEO+n9u5XYfKb/QmMjLPH/T2xUBKzuZsJ7nyNoEtNDo3DhQqyDHPxf2fDSuUwSJQFEj6JQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore/7.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.dll",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.xml",
+        "microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
+        "microsoft.entityframeworkcore.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.SqlServer/7.0.8": {
+      "sha512": "w4mGjE/3XvulWqpY6hOGR3Z0oKINuYebO+S6ccQSZDFGrz3xBmPg0EenEpfs8rqFWHM4125nqA1NLProsDgDCw==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.sqlserver/7.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
+        "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
+        "microsoft.entityframeworkcore.sqlserver.7.0.8.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Tools/7.0.8": {
+      "sha512": "98zo4OdBnPXYVD+Fl+a5ofsVLokd9hsp9W1D+VeuIowG0Cbxr2gQ9PqCIqOXxafl5ykKlbO+Bmn7lLRclMOq4Q==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.tools/7.0.8",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net6.0/_._",
+        "microsoft.entityframeworkcore.tools.7.0.8.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.nuspec",
+        "tools/EntityFrameworkCore.PS2.psd1",
+        "tools/EntityFrameworkCore.PS2.psm1",
+        "tools/EntityFrameworkCore.psd1",
+        "tools/EntityFrameworkCore.psm1",
+        "tools/about_EntityFrameworkCore.help.txt",
+        "tools/init.ps1",
+        "tools/net461/any/ef.exe",
+        "tools/net461/win-arm64/ef.exe",
+        "tools/net461/win-x86/ef.exe",
+        "tools/netcoreapp2.0/any/ef.dll",
+        "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
+      ]
+    },
+    "HotelFinder.Entity/1.0.0": {
+      "type": "project",
+      "path": "../HotelFinder.Entity/HotelFinder.Entity.csproj",
+      "msbuildProject": "../HotelFinder.Entity/HotelFinder.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "HotelFinder.Entity >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 7.0.8",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.8",
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dalki\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dalki\\Desktop\\code\\ASP.Net-CRUD\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+      "projectName": "HotelFinder.DataAccess",
+      "projectPath": "C:\\Users\\dalki\\Desktop\\code\\ASP.Net-CRUD\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\dalki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dalki\\Desktop\\code\\ASP.Net-CRUD\\HotelFinder\\HotelFinder.DataAccess\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dalki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\dalki\\Desktop\\code\\ASP.Net-CRUD\\HotelFinder\\HotelFinder.Entity\\HotelFinder.Entity.csproj": {
+              "projectPath": "C:\\Users\\dalki\\Desktop\\code\\ASP.Net-CRUD\\HotelFinder\\HotelFinder.Entity\\HotelFinder.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.8, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[7.0.8, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[7.0.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore 7.0.8 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Package Microsoft.EntityFrameworkCore 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 7.0.8 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Package Microsoft.EntityFrameworkCore.SqlServer 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 7.0.8 is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Package Microsoft.EntityFrameworkCore.Tools 7.0.8 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
